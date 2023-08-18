@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Web Development",
+    "description": "HTML, CSS, JavaScript"
+  },
+  {
+    "name": "Mobile App Development",
+    "description": "iOS, Android, React Native"
+  },
+  {
+    "name": "SQL",
+    "description": "Database querying and management"
+  },
+  {
+    "name": "Terminal",
+    "description": "Command line interface and basic scripting"
+  },
+  {
+    "name": "JSON",
+    "description": "Data interchange format"
+  }
+]
